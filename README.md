@@ -15,7 +15,6 @@
   <p align="center">
     SOME DESCRIPTION OF YOUR PROJECT
     <br />
-    ·
     <a href="https://github.com/USERNAME/REPOSITORY/issues">Report Bug</a>
     ·
     <a href="https://github.com/USERNAME/REPOSITORY/issues">Request Feature</a>
